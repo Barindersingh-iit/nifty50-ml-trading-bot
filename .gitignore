@@ -1,0 +1,20 @@
+﻿# Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Data / models (optional)
+*.pkl
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# nested repo folder (ignore)
+nifty50-ml-trading-bot/
+
